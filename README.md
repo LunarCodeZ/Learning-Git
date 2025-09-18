@@ -1,3 +1,4 @@
 ﻿# Learning-Git
 
-This repository will be used as my practice for using git
+This repository will be used as my practice for using git.
+
